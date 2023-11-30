@@ -59,4 +59,4 @@ jobs:
           app-name: 'emreyasarcal'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3591065DE4E84919A9CE6DC7EB3CDB2A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACC337F953544E40AB9D3EC4F0069B91 }}
